@@ -40,6 +40,7 @@ This project analyzes Target Brazil’s e-commerce operations using SQL and Powe
 
 ## 📄 Full Report
 
+https://drive.google.com/file/d/1Fy83cB49xsh3cyuxuydA4HghzV11_lt0/view?usp=sharing
 
 
 ---
